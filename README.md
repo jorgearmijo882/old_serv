@@ -1,6 +1,4 @@
-#############################
-# Jorge Armijo May 2019#
-#############################
+#Jorge Armijo May 2019#
 
 MicroServicio con Docker Spring Boot desarrollado con IntelliJ IDEA
 
