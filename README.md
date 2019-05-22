@@ -18,3 +18,12 @@ El objetivo es generar un contenedor con un microservicio
 ```
 sudo docker build -t microservicio
 ```
+
+**RunDocker**
+Se utilizará el puerto 8080 del docker y de la máquina donde
+sea desplegado el contenedor
+
+```
+docker run -d -p 8080:8080 microservicio
+```
+
